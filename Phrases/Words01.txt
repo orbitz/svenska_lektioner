@@ -201,4 +201,75 @@ mängden	the amount, the value
 ökade	grown, increased
 ökat	have grown, have increased
 lita på	to trust
+beklaga	to regret
+beklagar	regretting
+beklagade	regretted
+beklagat	have regeretted
+på en gång	at once
+bedöma	to judge, estimate
+bedömer	judging, estimating
+bedömde	judged, estimated
+bedömt	have judged, estimated
+oskyldig	innocent, not guilty
+oskuld	virgin
+erkänna	to admit, accept, acknowledge
+erkänner	admitting, accepting, acknowledging
+erkände	admited, accepted, acknowledged
+erkänt	have admited, accepted, acknowledged
+mord	murder
+mordet	the murder
+mordförsök	attempted murder
+fängelse	prison
+tillräckligt	sufficient
+huvudsakligen	mostly, primarily
+domstol	court
+domstolen	the court
+domstolar	courts
+bevis	proof
+beviset	the proof
+jakt	hunting
+mörda	to murder
+mördar	murdering
+mördade	murdered
+mördat	have murdered
+skjuta	to shoot
+skjuter	shooting
+sköt	shot
+skjutit	have shot
+ändra	change
+ändrar	changing
+ändrade	changed
+ändrat	have changed
+byta	to switch
+byter	switching
+bytte	switched
+bytt	have switched
+äntligen	finally, at last
+tillåtelse	permission
+förlåtelse	forgiveness
+anta	to assume, guess
+antar	guess
+antog	guessed
+antagit	have guessed
+deprimerad	depressed
+på sistone	lately
+gruva	mine
+hota	to threaten, menace
+rena	to purify
+beta	disinfect, feed, graze
+kräva	to claim
+området	the area
+strykjärn	iron
+nollning	freshman pranks
+hösten	autumn
+ett sätt	a way
+ta emot	receive, accept, welcome
+elak	cruel
+på vissa	certain
+känd	known, noted
+en lön	a salary
+skriva	to write
+skrev	wrote
+verka	to operate, work
+fundera	to reflect, consider
 

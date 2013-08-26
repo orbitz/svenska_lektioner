@@ -136,4 +136,40 @@ Jag kan inte bestämma mig. Ska vi singla slant?	I can't make up my mind. Shall 
 Ingen verkar ha tillräckligt med pengar.	Nobody seems to have enough money.
 Men man fick ställa in konserten	But they had to cancel the concert
 I USA tycker de flesta människor inte att Snowden är en förrädare	In the USA many people do not think that Snowden is a traitor
+Min hund kommer inte att bita dig.	My dog will not bite you.
+Myggorna vill inte lämna mig i fred!	The mosquitoes will not leave me alone!
+Vem är din favoritfilmstjärna?	Who's your favorite movie star?
+Jag älskar skaldjur men min kompis är allergisk mot det.	I love seafood, but my friend is allergic to it
+Ibland gillar jag att bara sätta mig med en bra bok.	Sometimes I just like to sit down with a good book.
+Bort från min gräsmatta!	Get off my lawn!
+Det är lättare att be om förlåtelse än om tillåtelse.	It's easier to ask forgiveness than permission.
+Min granne är gift med sin syssling.	My neighbor married her second cousin.
+Hennes hår ser jättebra ut i flätor.	Her hair looks really good in braids.
+Du kompletterar mig.	You complete me.
+Fordonets passagerare blev inte skadad.	The passenger of the vehicle was unharmed.
+Idag hade museet en intressant utställning om indisk folkmusik.	The museum had an interesting exhibit about Indian folk music today.
+Få inte panik, det är bara en brandövning.	Don't panic, it's only a fire drill.
+När hon såg mig, pussade hon mig två gånger på kinderna.	When she saw me, she kissed me twice on the cheeks.
+Man ska dricka mycket vatten när man är förstoppad.	You have to drink a lot of water when you're constipated.
+Annika föredrar fläsk framför nötkött.	Annika prefers pork to beef.
+I natt drömde jag att jag flöt bland molnen.	Last night I dreamt I was floating amongst the clouds.
+Branden spreds inte eftersom sprinklerna var aktiverade.	The fire did not spread because the sprinklers were activated.
+Under vår resa runt i England, besökte vi klipporna i Dover.	During our trip around England we visited the cliffs of Dover.
+Ska vi vila bredvid den där busken därborta?	Should we rest beside that bush over there?
+Ring mig ikväll, så gör vi planer.	Call me tonight and we'll make plans.
+Kvinnan på flygplatsen kontrollerade våra boardingkort.	The woman at the airport checked for our boarding passes.
+Låt mig ge dig ett tips.	Let me give you a hint.
+Programmet har ett lättanvänt gränssnitt.	The program has an easy-to-use user interface.
+Nästa år är ett skottår.	Next year is a leap year.
+Såg du rubrikerna i morse?	Did you see the headlines this morning?
+Ni ska lämna in era rapporter på måndag morgon.	You are to hand in your reports on Monday morning.
+Vintersnön har redan smält.	The winter snow has already melted.
+Första utkastet är färdigt imorgon.	The first draft will be ready by tomorrow.
+Det kryper en tusenfoting i badkaret!	There is a centipede in the bathtub!
+Man måste tina upp kalkonen innan man lägger in den i ugnen.	You have to defrost the turkey before putting it in the oven.
+Min farbror har en segelbåt ute på sjön.	My uncle has a sailboat out on the lake.
+Jag håller med dig om det.	I agree with you on that issue.
+Man får inte köra om på den här vägsträckan.	You can't pass on this stretch of road.
+Vi valde en plats på måfå.	We chose a seat at random.
+Jag menade inte att förolämpa dig.	I didn't mean to offend you.
 
