@@ -272,4 +272,5 @@ skriva	to write
 skrev	wrote
 verka	to operate, work
 fundera	to reflect, consider
-
+verklig	actual
+verligen	actually
